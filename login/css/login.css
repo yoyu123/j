@@ -1,0 +1,141 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+	color: #434343;
+}
+.wai{
+	width:750px;
+	height: 1224px;
+	background: white;
+	margin: 0 auto;
+	position: relative;
+}
+.wai .biao_ti{
+	font-size: 66px;
+	font-weight: bold;
+	margin-top: 225px;
+	text-align: center;
+}
+.wai .biao_ti1{
+	font-size: 26px;
+	text-align: center;
+	margin-top: 10px;
+}
+.wai .biao_ti2{
+	font-size: 31px;
+	padding-left: 150px;
+	margin-top: 102px;
+}
+.wai .shu_ru{
+	margin-left: 150px;
+	width: 290px;
+	height: 52px;
+	border: 1px solid #a0a0a0;
+	background: #f5f5f5;
+	padding-left: 12px;
+	border-radius: 4px;
+}
+.wai .shu_ru1{
+	margin-left: 150px;
+	width: 290px;
+	height: 52px;
+	border: 1px solid #a0a0a0;
+	background: #f5f5f5;
+	padding-left: 12px;
+	border-radius: 4px;
+}
+.wai .yan_z{
+	margin-left:30px;
+	position: relative;
+	top: 21px;
+	display: inline-block;
+	cursor: pointer;
+}
+.wai .biao_ti3{
+	font-size: 31px;
+	padding-left:150px;
+	margin-top: 48px;
+}
+.wai .zhu_ce{
+	text-align: center;
+	margin-top: 112px;
+	display: block;
+	cursor: pointer;
+}
+.wai .biao_ti4{
+	font-size: 24px;
+	padding-left: 150px;
+	margin-top: 12px;
+}
+.wai .biao_ti4 .fu{
+	width: 20px;
+	height: 20px;
+	position: relative;
+	top: 1px;
+	margin-right: 4px;
+}
+.wai .biao_ti4 a{
+	color: #247ee9;
+}
+.wai .alert{
+	width: 730px;
+	height: 950px;
+	border: 1px solid #bfbfbf;
+	position: relative;
+	position: absolute;
+	top: 112px;
+	left: 10px;
+	background:#eeeeee;
+	display: none;
+}
+.wai .alert .btn1{
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	cursor: pointer;
+}
+.wai .alert .biao{
+	font-size: 30px;
+	color:#247ee9 ;
+	margin-left:320px ;
+	margin-top: 20px;
+	display: inline-block;
+}
+.wai .alert .wenben{
+	width: 690px;
+	height: 860px;
+	margin-left: 20px;
+	margin-top: 20px;
+	overflow: scroll;
+}
+.wai .alert .wenben .nei_rong{
+	position: relative;
+}
+.wai .alert .biao1{
+	text-align:center ;
+	font-weight: bold;
+	font-size: 26px;
+	margin-top: 40px;
+}
+.wai .alert .qian{
+	font-size:20px ;
+	text-indent: 2em;
+}
+.wai .alert .qian span{
+	font-weight: bold;
+}
+.wai .alert .shen{
+	font-size:20px ;
+	text-indent: 2em;
+	font-weight: bold;
+}
+.wai .alert  .la{
+	width: 30px;
+	margin: 0 auto;
+	margin-top: 14px;
+	cursor: pointer;
+}
+.wai .alert p{
+	padding: 4px 0px;
+}

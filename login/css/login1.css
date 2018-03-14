@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+	color: #434343;
+}
+.wai{
+	width:750px;
+	height: 1224px;
+	background: white;
+	margin: 0 auto;
+}
+.wai .tu{
+	text-align: center;
+	margin-top:360px ;
+}
+.wai .biao_ti{
+	font-size: 40px;
+	text-align: center;
+	color: #247ee9;
+	margin-top:20px ;
+}
+.wai .biao_ti1{
+	font-size: 31px;
+	text-align: center;
+	color: #247ee9;
+	margin-top:14px ;
+}
